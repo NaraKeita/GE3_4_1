@@ -1,5 +1,6 @@
 #include <KamataEngine.h>
 
+
 using namespace KamataEngine;
 
 // Windowsアプリでのエントリーポイント(main関数)
